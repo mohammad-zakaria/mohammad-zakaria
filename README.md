@@ -14,6 +14,13 @@
     - Virtualization: VMware, VirtualBox
 - **Learning & Development:** Docker, Cloud Security, Penetration Testing
 
+## 🏆 Certifications & Achievements
+
+### TryHackMe Profile:
+<img src="https://tryhackme-badges.s3.amazonaws.com/0hour.png" alt="TryHackMe Badge" />
+
+
+
 ## 📊 Github Activity
 
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zakaria&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammad-zakaria&show_icons=true&theme=dark&hide_border=false&count_private=true) |
