@@ -17,7 +17,8 @@
 ## 🏆 Certifications & Achievements
 
 ### TryHackMe Profile:
-<img src="https://tryhackme-badges.s3.amazonaws.com/0hour.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/0hour.png" alt="TryHackMe">
+
 
 
 
